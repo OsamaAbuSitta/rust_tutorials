@@ -1,0 +1,23 @@
+Book 
+	> https://rust-lang.github.io/rustup/
+
+
+Rust 
+ - Statically-typed
+ - Memory safe
+ - Highly performant
+ - 
+
+Install rust 
+ - Mac 
+	> brew install rustup-init
+      > rustup-init
+
+ - Windows 
+	https://www.rust-lang.org/tools/install
+
+rustup : A tool for managing different versions of Rust.
+rustc  : A tool for compiling Rust code.
+cargo  : A tool for managing Rust packages and projects. > https://crates.io/
+
+ 
