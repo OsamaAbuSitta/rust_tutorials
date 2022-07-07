@@ -2,7 +2,12 @@ fn main() {
   //first();
   //second();
   //match_expressions();
-  array();
+  //array();
+  vectors();
+}
+
+fn vectors(){
+    let items:[]
 }
 
 fn array(){
